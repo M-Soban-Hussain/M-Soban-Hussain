@@ -23,7 +23,8 @@
 [https://github.com/M-Soban-Hussain](https://github.com/M-Soban-Hussain)<br><br>
 
 ⚡ Fun fact  
-I think I am funny.<br><br>
+I believe in using logic to solve any problem—even non-technical ones.
+<br><br>
 
 Skills:  
 - Verilog  
