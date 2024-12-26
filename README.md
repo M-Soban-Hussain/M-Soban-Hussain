@@ -1,8 +1,5 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bc27292880429.5e569ff84e4d0.gif" alt="Banner Image" width="100%" />
-
 # 💫 About Me:
 🔭 I’m currently working on creating a 16-bit CPU in Verilog using Xilinx ISE Design Suite.  
-[Verilog](https://github.com/M-Soban-Hussain/Verilog)<br><br>
 
 👯 I’m looking to collaborate on  
 - Project name: 16-bit CPU Design  
